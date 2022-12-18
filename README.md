@@ -2,7 +2,7 @@
 
 The repository consists of necessary components, images, and some data files to display navbar in web.
 
-## `npm install react-burger-menu`
+### `npm install react-burger-menu`
 
 The above code was executed in the terminal to design the Sidebar of the navigation menu.
 
