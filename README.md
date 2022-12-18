@@ -6,6 +6,8 @@ The repository consists of necessary components, images, and some data files to 
 
 The above code was executed in the terminal to design the Sidebar of the navigation menu.
 
+**Note: Some react components are depending on `./src/dataFiles/....` as they consist of paths to images in order to enable future potential to change image choices to be displayed as and when needed.**
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
