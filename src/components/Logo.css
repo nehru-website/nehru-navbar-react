@@ -1,0 +1,36 @@
+/* LOGO */
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo--img {
+    width: 52px;
+}
+
+.logo--text {
+    font-weight: 600;
+    font-size: 24px;
+    color: #FDFFFC;
+    margin-left: 20px;
+}
+
+@media (max-width: 700px) {
+    .logo--img {
+        width: 40px;
+    }
+    
+    .logo--text {
+        font-weight: 400;
+        font-size: 18px;
+        color: #FDFFFC;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 360px) {
+    .logo--text {
+        letter-spacing: -1px;
+    }
+}

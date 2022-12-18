@@ -1,0 +1,37 @@
+/* BUTTONS */
+
+.btn {
+    display: flex;
+    align-items: center;
+}
+
+.login-btn {
+    background-color: #FDFFFC;
+    border: none;
+    color: #000000;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 6px 10px;
+}
+
+.signup-btn {
+    background-color: #000000;
+    color: #FDFFFC;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 6px 10px;
+    margin-left: 20px;
+}
+
+.login-btn:hover, .signup-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 10px 2px #FDFFFC;
+    font-size: 20px;
+    transition: box-shadow, font-size 0.2s  ease-in-out;
+}
+
+@media (max-width: 1240px) {
+    .btn {
+        margin-top: 8px;
+    }
+}
