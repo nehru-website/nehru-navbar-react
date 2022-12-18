@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# React implementation of Navbar
+
+The repository consists of necessary components, images, and some data files to display navbar in web.
+
+## `npm install react-burger-menu`
+
+The above code was executed in the terminal to design the Sidebar of the navigation menu.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
