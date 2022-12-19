@@ -25,10 +25,10 @@ export default function Navbar () {
                 <ul className="nav-items">
                     <a href="#Home"><li>Home</li></a>
                     <a href="#RoomAllocation"><li>Room Allocation</li></a>
-                    <a href="BoarderDetails"><li>Boarder Detail</li></a>
-                    <a href="Complaint"><li>Complaint</li></a>
-                    <a href="HMC"><li>HMC</li></a>
-                    <a href="Proposal"><li>Proposal</li></a>
+                    <a href="#BoarderDetails"><li>Boarder Detail</li></a>
+                    <a href="#Complaint"><li>Complaint</li></a>
+                    <a href="#HMC"><li>HMC</li></a>
+                    <a href="#Proposal"><li>Proposal</li></a>
                 </ul>
                 <Button />
             </nav>
